@@ -2,6 +2,17 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "Dark Cyber",
+			"details": "https://github.com/jonypeixoto/Dark-Cyber-Sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "D-Laravel alias",
 			"details": "https://github.com/deviny/Dlaravel-Alias",
 			"releases": [
