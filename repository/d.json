@@ -126,6 +126,18 @@
 			]
 		},
 		{
+			"name": "Dark Cayber Color Scheme",
+			"author": "Jony Peixoto",
+			"details": "https://github.com/jonypeixoto/Dark-Cyber-Sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Dark Crayon Color Scheme",
 			"details": "https://github.com/Fernando2603/DarkCrayon",
 			"labels": ["color scheme"],
